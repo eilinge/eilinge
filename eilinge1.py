@@ -17,3 +17,4 @@ def get_img(html):
 if __name__ == '__main__':
     url = 'http://cn-proxy.com'
     get_img(open_url(url))
+    print('i love lala')
